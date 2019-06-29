@@ -1,2 +1,2 @@
 # flamingo-layout
-Html5, Css3 and Responsive Layout practise
+Small project createt for Html5, Css3 and Responsive Layout practise.
